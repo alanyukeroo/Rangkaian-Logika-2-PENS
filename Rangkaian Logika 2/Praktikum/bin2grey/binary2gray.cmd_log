@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "D:/1. KOLEAH/Semester 2/Rangkaian Logika 2/Praktikum/bin2grey/binary2gray.xst" -ofn "D:/1. KOLEAH/Semester 2/Rangkaian Logika 2/Praktikum/bin2grey/binary2gray.syr" 
+xst -intstyle ise -ifn "D:/1. KOLEAH/Semester 2/Rangkaian Logika 2/Praktikum/bin2grey/binary2gray.xst" -ofn "D:/1. KOLEAH/Semester 2/Rangkaian Logika 2/Praktikum/bin2grey/binary2gray.syr" 

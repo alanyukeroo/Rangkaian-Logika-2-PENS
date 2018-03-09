@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "D:/1. KOLEAH/Semester 2/Rangkaian Logika 2/Praktikum/p2binerke2421/bin2bcd_tb_isim_beh.exe" -prj "D:/1. KOLEAH/Semester 2/Rangkaian Logika 2/Praktikum/p2binerke2421/bin2bcd_tb_beh.prj" "work.bin2bcd_tb" 

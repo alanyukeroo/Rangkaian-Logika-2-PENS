@@ -1,0 +1,34 @@
+SET_FLAG DEBUG FALSE
+SET_FLAG MODE INTERACTIVE
+SET_FLAG STANDALONE_MODE FALSE
+SET_PREFERENCE devicefamily artix7
+SET_PREFERENCE device xc7a100t
+SET_PREFERENCE speedgrade -3
+SET_PREFERENCE package csg324
+SET_PREFERENCE verilogsim false
+SET_PREFERENCE vhdlsim true
+SET_PREFERENCE simulationfiles Structural
+SET_PREFERENCE busformat BusFormatAngleBracketNotRipped
+SET_PREFERENCE outputdirectory D:/1. KOLEAH/Semester 2/Rangkaian Logika 2/Praktikum/bin2grey/ipcore_dir/
+SET_PREFERENCE workingdirectory D:/1. KOLEAH/Semester 2/Rangkaian Logika 2/Praktikum/bin2grey/ipcore_dir/tmp/
+SET_PREFERENCE subworkingdirectory D:/1. KOLEAH/Semester 2/Rangkaian Logika 2/Praktikum/bin2grey/ipcore_dir/tmp/_cg/
+SET_PREFERENCE transientdirectory D:/1. KOLEAH/Semester 2/Rangkaian Logika 2/Praktikum/bin2grey/ipcore_dir/tmp/_cg/_dbg/
+SET_PREFERENCE designentry VHDL
+SET_PREFERENCE flowvendor Other
+SET_PREFERENCE addpads false
+SET_PREFERENCE projectname coregen
+SET_PREFERENCE formalverification false
+SET_PREFERENCE asysymbol false
+SET_PREFERENCE implementationfiletype Ngc
+SET_PREFERENCE foundationsym false
+SET_PREFERENCE createndf false
+SET_PREFERENCE removerpms false
+SET_PARAMETER Component_Name bin2grey
+SET_CORE_NAME 32-bit Initiator/Target for PCI (Virtex-5/7-Series)
+SET_CORE_VERSION 4.18
+SET_CORE_VLNV xilinx.com:ip:pci32:4.18
+SET_CORE_CLASS com.xilinx.ip.pci32_v4_18.pci32_v4_18
+SET_CORE_PATH D:/Installation/Xillinx/14.5/ISE_DS/ISE/coregen/ip/xilinx/network/com/xilinx/ip/pci32_v4_18
+SET_CORE_GUIPATH D:/Installation/Xillinx/14.5/ISE_DS/ISE/coregen/ip/xilinx/network/com/xilinx/ip/pci32_v4_18/gui/pci32_v4_18.tcl
+SET_CORE_DATASHEET D:\Installation\Xillinx\14.5\ISE_DS\ISE\coregen\ip\xilinx\network\com\xilinx\ip\pci32_v4_18\doc\pci_32_ds206.pdf
+SET_CORE_LICENSE_KEY pci32@2012.07

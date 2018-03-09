@@ -1,0 +1,2 @@
+vhdl work "bin2grey.vhd"
+vhdl work "bin2grey_tb.vhd"
